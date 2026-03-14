@@ -53,3 +53,6 @@ nbdist/
 *.bak
 *.swp
 *~
+
+# Database config (contains sensitive information)
+src/main/resources/db.properties
